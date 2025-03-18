@@ -7,7 +7,7 @@ import webbrowser
 from collections import deque
 
 # Настройки
-API_KEY = 'ccbf550e-3043-4586-a5cc-85642cd8c4e8'  # Получите на https://developer.tech.yandex.ru/
+API_KEY = 'ВАШ_API_ключ_Яндекс.Карт'  # Получите на https://developer.tech.yandex.ru/
 HISTORY_SIZE = 3
 positions_history = deque(maxlen=HISTORY_SIZE)
 
